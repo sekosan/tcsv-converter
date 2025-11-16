@@ -1,10 +1,3 @@
-Elbette — yukarıdaki tüm gereksinimleri derleyip tam, profesyonel bir README.md oluşturdum.
-Bu dosya bir GitHub projesi için hazırdır.
-
-⸻
-
-README.md
-
 TCSV Converter & Preview
 
 JSON / TONL / toon → TCSV dönüştürücü ve TCSV tablo önizleme aracı
